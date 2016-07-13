@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="background" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="background.jpg" width="800" height="480"/>
+ </tileset>
+ <layer name="块层 1" width="25" height="15">
+  <data encoding="base64" compression="zlib">
+   eJy91Pe3yHUcx3EX17z2uq55XXtf7r3W5eLi3mvvhCRZJSOESLKKouxRlL1HyCihUqlsIpWiZGeUEFEeHd+/weecx3n99D7P3z6pUj2aF0Jq0pCWUNKRngxkJBOZCSMLWclGdnKQk1zkJg95yUd40MhPBAUoSCEKU4SiRFKMKIpTgpKUojRlKEs5ylOBilSictCIpgpViSGWOKpRnRrUpBbx1KYOCdSlHvVJpAENaUQSyUEjhcY0oSnNaE4LWtKK1rShLe1oz2N04HE60onOPEEXnqRr0HiKbjxNd3rQk1705hmepQ/P0Zd+9GcAzzOQQQzmBYYwlGFB40WGM4KXGMnLjOIVRjOGsYxjPK/yGhOYyOu8wSQm8yZvMSVoTGUa05nBTGYxmznM5W3eYR7zeZf3WMBCFrGYJSxlGctZETRWsorVrGEt61jP+2xgI5v4gM1sYSvb+JCP2M7H7GAnu/gkaHzKZ+zmc77gS/bwFV/zDXvZx34OcJBDHOYIR/mWYxznO04Eje/5gR85yU/8zClO8wu/cobfOMs5znOBi1ziMr9zhatc43rQ+IM/ucFf3OQWt/mbO9zlH+5xn3/57/9jn0QIqUlDWkJJR3oyhDxsZLSZyEwYWchKNrKTg5zkIjd5yEs+wslPBAUoSCEKU4SiQSPSFiOK4pSgJKUoTRnKUo7yVKAilahMNFWoSgyxxFGN6kGjhq1JLeKpTR0SqEs96pNIAxrSiCSSSaExTWhKM5rTgpY8AKnNjHo=
+  </data>
+ </layer>
+</map>
